@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GithubCodeTest</string>
+    <string name="repositories">Repositories</string>
+    <string name="repository_detail">Repository Detail</string>
+    <string name="content_description_stars_icon">Stars Icon</string>
+    <string name="content_description_user_avatar">User Avatar</string>
+</resources>
